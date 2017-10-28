@@ -1,3 +1,7 @@
+## About
+I am an undergraduate student at [Escuela Superior Politecnica del Litoral](http://espol.edu.ec) and game developer at [Freaky Creations](http://freakycreations.net), both based on Ecuador. My interest in computer science go from programming languages, systems programming to game development.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gtotoy/gtotoy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
