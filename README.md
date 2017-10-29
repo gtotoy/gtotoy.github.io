@@ -1,5 +1,4 @@
  <!--- <img src="https://gtotoy.github.com/images/me3.jpeg" width="135" height="170">  --->
-
 ## About
 I am an undergraduate student at [ESPOL University](http://espol.edu.ec) and game developer at [Freaky Creations](http://freakycreations.net), both based on Guayaquil, Ecuador. 
 I am currently a research collaborator in the Systems Research Group directed by [PhD. Cristina Abad](https://sites.google.com/site/cristinaabad/) and I am working on the game _To Leave_ as gameplay programmer and PS4 build responsible.
