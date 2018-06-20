@@ -2,12 +2,15 @@
 
 ## About
 I am an undergraduate student at [ESPOL University](http://espol.edu.ec) and game developer at [Freaky Creations](http://freakycreations.net), both based on Guayaquil, Ecuador. 
-I am currently a research collaborator in the Systems Research Group directed by [PhD. Cristina Abad](https://sites.google.com/site/cristinaabad/) and I am working on the game _To Leave_ as gameplay programmer and PS4 build responsible.
+I am currently a research member of Distributed Systems Lab directed by [PhD. Cristina Abad](https://sites.google.com/site/cristinaabad/) and I am working on the game _To Leave_ as gameplay programmer and PS4 build responsible.
 
-My interests in computer science go from programming languages, systems programming to game development. I was TA of Programming Languages for a year at ESPOL, and before that I was TA of Physics (classical mechanics and electromagnetism) for two years at ESPOL too. This interest on Physics slowly emerged at my first semesters at the University and it paid me off when I started working on video games.
+My interests in computer science go from programming languages, systems programming to game development. I was TA of Programming Languages for a year at ESPOL, and before that I was TA of Physics (classical mechanics and electromagnetism) for two years at ESPOL too. This interest on Physics slowly emerged from my freshman year and it paid me off when I started working on video games.
 
 ## Publications
-Instrumenting Cloud Caches for Online Workload Monitoring  
+* [An Extensible Scheduler for the OpenLambda FaaS Platform](http://insight-archlab.github.io/minmove/FaaS-min-move-2018.pdf)  
+**Gustavo Totoy**, Edwin F. Boza, Cristina L. Abad  
+_2nd Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2018) @ ASPLOS 2018_
+* Instrumenting Cloud Caches for Online Workload Monitoring  
 Jorge R. Murillo, **Gustavo Totoy**, Cristina L. Abad  
 _16th Workshop on Adaptive and Reflective Middleware (ARM), co-located with ACM/IFIP/USENIX Middleware, 2017_
 
