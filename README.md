@@ -6,7 +6,7 @@ I am currently a research member of Distributed Systems Lab directed by [PhD. Cr
 
 My interests in computer science go from programming languages, systems programming to game development. I was TA of Programming Languages for a year at ESPOL, and before that I was TA of Physics (classical mechanics and electromagnetism) for two years at ESPOL too. This interest on Physics slowly emerged from my freshman year and it paid me off when I started working on video games.
 
-##Resume
+## Resume
 * [Currículum](https://drive.google.com/open?id=1DMl-DlvKE479dJFiWCAuGVQln41ijXdI)
 
 ## Publications
