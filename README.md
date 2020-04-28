@@ -8,7 +8,7 @@ My interests in computer science go from programming languages, systems programm
 
 ## Resume
 * [Resume (eng)](https://drive.google.com/open?id=1o7IOuuSmCbPE_u44oE24TfecvOeCQ4RJ)
-* [Currículum (spa)](https://drive.google.com/open?id=1DMl-DlvKE479dJFiWCAuGVQln41ijXdI)
+* [Currículum (spa)](https://drive.google.com/open?id=1ACLSdHXQaesLGFz-_ZwYpKzbUOZdganD)
 
 ## Publications
 * [An Extensible Scheduler for the OpenLambda FaaS Platform](http://insight-archlab.github.io/minmove/FaaS-min-move-2018.pdf)  
