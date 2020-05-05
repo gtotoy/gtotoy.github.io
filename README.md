@@ -11,6 +11,9 @@ My interests in computer science go from programming languages, systems programm
 * [Currículum (spa)](https://drive.google.com/open?id=1ACLSdHXQaesLGFz-_ZwYpKzbUOZdganD)
 
 ## Publications
+* [Beyond Load Balancing: Package-Aware Scheduling for Serverless Platforms](https://drive.google.com/open?id=1KKRb0RVWVPUgwof8d3hJ8jnGf1laB1Ob)  
+Gabriel Aumala, Edwin F. Boza, Luis Ortiz-Aviles, **Gustavo Totoy** and Cristina L. Abad  
+_IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid), 2019. DOI: [10.1109/CCGRID.2019.00042](https://doi.org/10.1109/CCGRID.2019.00042)_  
 * [An Extensible Scheduler for the OpenLambda FaaS Platform](http://insight-archlab.github.io/minmove/FaaS-min-move-2018.pdf)  
 **Gustavo Totoy**, Edwin F. Boza, Cristina L. Abad  
 _2nd Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2018) @ ASPLOS 2018_
