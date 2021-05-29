@@ -1,10 +1,13 @@
  <!--- <img src="https://gtotoy.github.com/images/me3.jpeg" width="135" height="170">  --->
 
 ## About
-I am a Computer Scientist graduated from [ESPOL University](http://espol.edu.ec), Game Development Visiting Lecturer at [ESPOL University](http://espol.edu.ec) and game developer at [Freaky Creations](https://twitter.com/freakycreations), both based on Guayaquil, Ecuador. 
-I am currently a research member of Distributed Systems Lab directed by [PhD. Cristina Abad](https://sites.google.com/site/cristinaabad/) and I worked on the game [To Leave](https://www.playstation.com/en-us/games/to-leave-ps4/) as gameplay programmer and PS4 build responsible.
+I am a computer programmer and game developer who besides writing computer systems (usually videogames) loves to teach too. I received my BSc. in Computer Science from [ESPOL](http://espol.edu.ec) University based on Guayaquil, Ecuador.
 
-My interests in computer science go from programming languages, systems programming to game development. I was TA of Programming Languages for a year at ESPOL, and before that I was TA of Physics (classical mechanics and electromagnetism) for two years at ESPOL too. This interest on Physics slowly emerged from my freshman year and it paid me off when I started working on video games.
+My interests in videogames go from pure entertainment to artistic expression to serious games. I've been an indie developer and cofounder of [Freaky Creations](https://twitter.com/freakycreations), the first studio based on Ecuador who released a game([To Leave](https://www.youtube.com/watch?v=HjQzDsczjiM&ab_channel=FreakyCreationsGDSFreakyCreationsGDS)) for PS4 console and Steam on PC. Currently, I am a Senior Game Engineer at [Wildlife Studios](https://wildlifestudios.com/) who developed big mobile titles like Sniper3D, Zooba, Tennis Clash and Suspects: A Mistery Mansion.
+
+Regarding teaching I have lectured the undergraduate course Introduction to Videogame Development at [ESPOL](http://espol.edu.ec) University and when I was a student I lectured Programming Languages and Physics (classical mechanics and electromagnetism) as a TA for those courses.
+
+And finally I would like to mention my research side where I was a member of the Distributed Systems Research Lab ([DiSEL](https://github.com/disel-espol)) directed by [PhD. Cristina Abad](https://sites.google.com/fiec.espol.edu.ec/cv-cabad/english), you can see my publications below.
 
 ## Resume
 * [Resume (eng)](https://drive.google.com/open?id=1o7IOuuSmCbPE_u44oE24TfecvOeCQ4RJ)
@@ -22,5 +25,4 @@ Jorge R. Murillo, **Gustavo Totoy**, Cristina L. Abad
 _16th Workshop on Adaptive and Reflective Middleware (ARM), co-located with ACM/IFIP/USENIX Middleware, 2017_
 
 ## Contact
-**email:** gtotoy@gmail.com, gtotoy@espol.edu.ec  
-**twitter:** [@gustavo_totoy](https://twitter.com/gustavo_totoy)
+**email:** gtotoy@gmail.com, gustavo.totoy@wildlifestudios.com
