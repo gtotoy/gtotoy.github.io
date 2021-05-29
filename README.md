@@ -3,7 +3,7 @@
 ## About
 I am a computer programmer and game developer who besides writing computer systems (usually videogames) loves to teach too. I received my BSc. in Computer Science from [ESPOL](http://espol.edu.ec) University based on Guayaquil, Ecuador.
 
-My interests in videogames go from pure entertainment to artistic expression to serious games. I've been an indie developer and cofounder of [Freaky Creations](https://twitter.com/freakycreations), the first studio based on Ecuador who released a game([To Leave](https://www.youtube.com/watch?v=HjQzDsczjiM&ab_channel=FreakyCreationsGDSFreakyCreationsGDS)) for PS4 console and Steam on PC. Currently, I am a Senior Game Engineer at [Wildlife Studios](https://wildlifestudios.com/) who developed big mobile titles like Sniper3D, Zooba, Tennis Clash and Suspects: A Mistery Mansion.
+My interests in videogames go from pure entertainment to artistic expression to serious games. I've been an indie developer and cofounder of [Freaky Creations](https://twitter.com/freakycreations), the first studio based on Ecuador who released a game([To Leave](https://www.youtube.com/watch?v=HjQzDsczjiM&ab_channel=FreakyCreationsGDSFreakyCreationsGDS)) for PS4 console and Steam on PC. Currently, I am a Senior Game Engineer at [Wildlife Studios](https://wildlifestudios.com/) who developed big mobile titles like Sniper3D, Zooba, Tennis Clash and Suspects: A Mystery Mansion.
 
 Regarding teaching I have lectured the undergraduate course Introduction to Videogame Development at [ESPOL](http://espol.edu.ec) University and when I was a student I lectured Programming Languages and Physics (classical mechanics and electromagnetism) as a TA for those courses.
 
