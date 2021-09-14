@@ -11,7 +11,7 @@ And finally I would like to mention my research side where I was a member of the
 
 ## Resume
 * [Resume (eng)](https://drive.google.com/file/d/1r8yR9YrP-wW1XnOZ8RI16Qnh96WvZfxy)
-* [Currículum (spa)]()
+* Currículum (spa)
 
 ## Publications
 * [Beyond Load Balancing: Package-Aware Scheduling for Serverless Platforms](https://drive.google.com/open?id=1KKRb0RVWVPUgwof8d3hJ8jnGf1laB1Ob)  
