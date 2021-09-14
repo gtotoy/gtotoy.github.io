@@ -10,8 +10,8 @@ Regarding teaching I have lectured the undergraduate course Introduction to Vide
 And finally I would like to mention my research side where I was a member of the Distributed Systems Research Lab ([DiSEL](https://github.com/disel-espol)) directed by [PhD. Cristina Abad](https://sites.google.com/fiec.espol.edu.ec/cv-cabad/english), you can see my publications below.
 
 ## Resume
-* [Resume (eng)](https://drive.google.com/open?id=1o7IOuuSmCbPE_u44oE24TfecvOeCQ4RJ)
-* [Currículum (spa)](https://drive.google.com/open?id=1ACLSdHXQaesLGFz-_ZwYpKzbUOZdganD)
+* [Resume (eng)](https://drive.google.com/file/d/1r8yR9YrP-wW1XnOZ8RI16Qnh96WvZfxy)
+* [Currículum (spa)]()
 
 ## Publications
 * [Beyond Load Balancing: Package-Aware Scheduling for Serverless Platforms](https://drive.google.com/open?id=1KKRb0RVWVPUgwof8d3hJ8jnGf1laB1Ob)  
